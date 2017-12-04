@@ -1,0 +1,19 @@
+*{
+	margin:0;
+	padding:0;
+}
+.page{
+	width:1000px;
+	margin:20px auto;
+	
+}
+.Paging-device{
+	width:1000px;
+	height:130px;
+	margin:40px auto;		
+}
+.Paging-device>p{
+	float: right;
+	width:580px;
+	height:22px;	
+}
